@@ -35,4 +35,4 @@ if db name has space replace it by "+".
   
 ## Deployment
 
-This project is hosted on cyclic at "https://calm-ruby-dolphin-yoke.cyclic.app/" use this for calling all the frontend apis.
+This project is hosted on cyclic at "https://calm-ruby-dolphin-yoke.cyclic.app/" or https://travel-app-nun-mirchai.cyclic.app use this for calling all the frontend apis. 
