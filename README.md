@@ -31,3 +31,8 @@
 
 if pwd has special characters: provide their ascii codes eg for @ use "%40"
 if db name has space replace it by "+".
+
+  
+## Deployment
+
+This project is hosted on cyclic at "https://calm-ruby-dolphin-yoke.cyclic.app/" use this for calling all the frontend apis.
